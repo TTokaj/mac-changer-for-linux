@@ -11,4 +11,4 @@ it have -h --help option
                         New MAC address
 
 i.e.
-sudo python macchanger.py -i wlan0 -m 00:00:00:00:00:00
+sudo python macchanger.py -i wlan0 -m 00:11:22:33:44:55
